@@ -21,7 +21,7 @@ Math
 
 ## UML Class Diagram
 
-![Contoh Gambar](DiagramUML.jpeg)
+![DiagramUML](DiagramUML.jpeg)
 
 # Kontributor
 
